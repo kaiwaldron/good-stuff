@@ -9,3 +9,5 @@
 [Concurrency is not Parallelism](http://talks.golang.org/2012/waza.slide#1)
 
 [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
+
+[GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
