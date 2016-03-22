@@ -11,3 +11,7 @@
 [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 
 [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+
+[Systems that Never Stop](http://www.infoq.com/presentations/Systems-that-Never-Stop-Joe-Armstrong)
+
+[JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook)
